@@ -45,7 +45,7 @@ input[value='cards']:checked ~ main img
 input[value='list']:checked ~ main .cat
 {
     margin: auto;
-    width: 50%;
+    width: 500px;
     padding: 25px;
 }
 
@@ -77,5 +77,5 @@ a:hover
 
 .short-info:hover
 {
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
